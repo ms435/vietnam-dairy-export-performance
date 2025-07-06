@@ -1,8 +1,10 @@
--- Step 2: Create view `vw_market_summary`
--- - Summarize export value, volume, and unit price by country & year
--- - Compute YoY growth in value and volume
--- - Identify high-growth or declining markets
--- Result: View supports market-level strategic insights
+/*--------------------------------------------------------------------
+Step 2: Create view 'vw_market_summary'
+- Summarize export value, volume, and unit price by country & year
+- Compute YoY growth in value and volume
+- Identify high-growth or declining markets
+Result: View supports market-level strategic insights
+--------------------------------------------------------------------*/
 
 /*-----------------------------------------
 MARKET ANALYSIS
